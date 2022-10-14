@@ -2,30 +2,16 @@
 layout: home
 title: Home
 ---
-# RSE International Survey
+# RSE International Survey - Nordics
 
-The Research Software Engineering (RSE) International Survey is a survey conducted
-by the UK [Software Sustainability Institute](https://www.software.ac.uk) since 2016 and now comprises 8 countries
-and covers all aspects of the practice of research software engineering.
+These pages reproduce the analysis of the analysis of the
+[2022 RSE International Survey](https://softwaresaved.github.io/international-survey-2022/)
+for the Nordic countries.
 
-We ran the **first survey in 2016**, which provided an insight into the
-demographics, job satisfaction, and practices of research software engineers
-(RSEs) in the UK. To support and broaden this work, the institute will conduct the survey
-at regular intervals and extend the geographical coverage to
-facilitate inter-country comparisons. The results of the surveys, anonymised
-and open licensed, will act as a a valuable resource to
-understand and improve the working conditions for RSEs.
+See the original survey page for details on the survey and the analysis.
 
-In **2017** we also surveyed Canadian RSEs and we added four countries,
-Germany, Netherlands, South Africa and USA. Our thanks to our partners: Scott
-Henwood (Canada), Stephan Janosch and Martin Hammitzsch (Germany), Ben van
-Werkhoven and Tom Bakker (Netherlands), Anelda van der Walt (South Africa) and
-Daniel Katz and Sandra Gesing (USA).
-
-Since **2018** we have worked differently and created a survey for all countries
-(rather than one survey for each one).
-
-This site covers the **2022** survey results.
+Note that the number of participants is small for some of the countries and the
+sample may not be representative.
 
 ## Composition of the survey
 
@@ -40,7 +26,7 @@ The [base questions](https://github.com/softwaresaved/international-survey/blob/
    1. **Sustainability and tools**: testing, bus factor, technical handover. Also which tools they are using
    1. **Job satisfaction**: what do RSEs think about their job and their career?
    1. **Network**: how do RSEs meet and gain representation?
-These subjects are not necessarily  investigated under this order, neither published with that order. 
+These subjects are not necessarily  investigated under this order, neither published with that order.
 
 ## Contributors
 
@@ -72,7 +58,7 @@ Here is a list of contributors for the 2022 version of the survey in last name a
 * Claire Wyatt, UK
 * Qian Zhang, Canada
 
-## Licence 
+## Licence
 
 This repository contains code and public data. We have different licences for each
 * The code is released under [BSD 3-Clause License](https://github.com/softwaresaved/international-survey-analysis/blob/main/LICENSE).
