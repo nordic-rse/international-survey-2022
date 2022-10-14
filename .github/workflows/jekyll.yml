@@ -1,5 +1,9 @@
 name: Build Jekyll for GitHub Pages
 on: [push, pull_request]
+permissions:
+  contents: read
+  pages: write
+  id-token: write
 jobs:
  build:
   name: build
